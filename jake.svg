@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 804.03 665.54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="window-code-clip" x="405.52" y="270.63" width="222.4" height="235.63" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Jake_Cropped" data-name="Jake Cropped">
+      <rect id="shelf" x="160.32" y="156.93" width="643.02" height="15.8" fill="#c1ab9d"/>
+      <rect id="desk" y="628.41" width="804.03" height="20.42" rx="1.11" fill="#c1ab9d"/>
+      <g id="steaming-coffee">
+        <circle id="steam-0" cx="140.01" cy="563.78" r="7.84" fill="#f7f7f7"/>
+        <circle id="steam-1" cx="140.01" cy="563.78" r="7.84" fill="#f7f7f7"/>
+        <circle id="steam-2" cx="140.01" cy="563.78" r="7.84" fill="#f7f7f7"/>
+        <circle id="steam-3" cx="140.01" cy="563.78" r="7.84" fill="#f7f7f7"/>
+        <circle id="steam-4" cx="140.01" cy="563.78" r="7.84" fill="#f7f7f7"/>
+        <path id="coffee" d="M175.78,564V553a4.81,4.81,0,0,0-4.82-4.81H109.87a4.81,4.81,0,0,0-4.81,4.81v70.56a4.82,4.82,0,0,0,4.81,4.82H171a4.82,4.82,0,0,0,4.82-4.82V611.92c10.77,0,19.5-10.72,19.5-23.95S186.55,564,175.78,564Zm0,39.87V572.05a17.93,17.93,0,0,1,0,31.84Z" fill="#44a9e0"/>
+      </g>
+      <g>
+        <rect x="232.16" y="570.17" width="133.53" height="49.61" fill="#fdc98d"/>
+        <path d="M206.89,546.24h7.49a32.57,32.57,0,0,1,32.57,32.57v17a32.57,32.57,0,0,1-32.57,32.57h-9a26.16,26.16,0,0,1-26.16-26.16v-28.3a27.71,27.71,0,0,1,27.71-27.71Z" fill="#fdc98d"/>
+      </g>
+      <path id="monitor-bezel" d="M804,519.79H305a6.86,6.86,0,0,1-6.86-6.86V246a6.86,6.86,0,0,1,6.86-6.86H804m-492.13,267H797.17V252.83H311.9Z" fill="#414141"/>
+      <g id="window-code">
+        <rect id="window-code-bg" x="311.63" y="252.54" width="328.04" height="253.71" fill="#2e3346"/>
+        <g id="window-code-title-bar">
+          <rect id="window-code-title-bar-base" x="311.63" y="252.54" width="328.04" height="18.09" fill="#1d2131"/>
+          <g id="window-code-title-bar-buttons">
+            <circle id="window-code-close" cx="326.95" cy="261.57" r="3.74" fill="#dc1f26"/>
+            <circle id="window-code-min" cx="340.95" cy="261.57" r="3.74" fill="#f1de77"/>
+            <circle id="window-code-max" cx="353.89" cy="261.57" r="3.74" fill="#4db785"/>
+          </g>
+        </g>
+        <g id="window-code-nav">
+          <rect id="window-code-nav-base" x="311.63" y="270.63" width="93.89" height="235.63" fill="#1d2131"/>
+          <g id="code-nav">
+            <rect id="code-nav-0" x="323.21" y="286.37" width="17.74" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-1" x="328.31" y="298.36" width="30.26" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-2" x="328.31" y="310.97" width="34.16" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-3" x="340.95" y="323.58" width="31.44" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-4" x="340.95" y="335.98" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-5" x="328.31" y="348.38" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-6" x="328.31" y="360.78" width="32.6" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-7" x="340.95" y="373.19" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-8" x="328.31" y="385.59" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-9" x="340.95" y="397.99" width="35.95" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-10" x="328.31" y="410.39" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-12" x="340.95" y="422.8" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-13" x="323.74" y="435.2" width="17.21" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-14" x="328.31" y="447.6" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-15" x="340.95" y="460" width="37.32" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-16" x="340.95" y="472.41" width="26.94" height="7.44" fill="#8086aa"/>
+            <rect id="code-nav-17" x="326.95" y="484.81" width="21.16" height="7.44" fill="#8086aa"/>
+          </g>
+        </g>
+        <g id="window-code-editor">
+          <g clip-path="url(#clip-path)">
+            <g id="code">
+              <rect id="code-0-0" x="420.73" y="286.37" width="25.53" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-1-0" x="430.77" y="298.36" width="13.76" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-2-0" x="440.81" y="310.35" width="33.13" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-3-0" x="450.85" y="322.34" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-3-1" x="465.71" y="322.34" width="32.68" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-3-2" x="499.48" y="322.34" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-4-0" x="450.85" y="334.33" width="8.92" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-4-1" x="460.87" y="334.33" width="79.21" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-4-2" x="541.17" y="334.33" width="8.92" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-5-0" x="440.81" y="346.32" width="33.13" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-6-0" x="440.81" y="358.31" width="20.74" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-7-0" x="450.85" y="370.3" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-7-1" x="465.71" y="370.3" width="105.51" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-7-2" x="572.31" y="370.3" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-8-0" x="440.81" y="382.3" width="20.74" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-9-0" x="430.77" y="394.27" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-10-0" x="420.73" y="406.28" width="25.53" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-11-0" x="420.73" y="430.26" width="20.08" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-12-0" x="420.73" y="442.25" width="13.76" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-12-1" x="435.78" y="442.25" width="21.33" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-12-2" x="458.28" y="442.25" width="10.47" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-12-3" x="469.85" y="442.25" width="19.21" height="7.44" rx="3.72" fill="#cbe198"/>
+              <rect id="code-13-0" x="420.73" y="454.24" width="40.82" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-14-0" x="430.77" y="466.23" width="12.6" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-16-0" x="440.81" y="478.22" width="16.92" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-17-0" x="450.85" y="490.22" width="31.8" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-18-0" x="451.18" y="502.21" width="24.2" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-19-0" x="441.14" y="514.2" width="7.44" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-20-0" x="430.77" y="526.19" width="7.44" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-21-0" x="430.77" y="538.18" width="20.41" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-22-0" x="441.14" y="550.17" width="21.82" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-23-0" x="450.46" y="562.16" width="49.84" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-24-0" x="441.14" y="574.15" width="7.44" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-25-0" x="440.81" y="586.14" width="24.47" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-26-0" x="450.46" y="598.14" width="39.9" height="7.44" rx="3.72" fill="#f37c83"/>
+              <rect id="code-27-0" x="450.46" y="610.13" width="27.92" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-28-0" x="440.81" y="622.12" width="7.44" height="7.44" rx="3.72" fill="#c780b6"/>
+              <rect id="code-29-0" x="430.77" y="634.11" width="7.44" height="7.44" rx="3.72" fill="#afb5d3"/>
+              <rect id="code-30-0" x="420.73" y="646.1" width="7.44" height="7.44" rx="3.72" fill="#6693ac"/>
+              <rect id="code-31-0" x="420.73" y="658.09" width="20.08" height="7.44" rx="3.72" fill="#f37c83"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="window-siteception">
+        <rect id="window-siteception-body" x="640.05" y="252.88" width="163.88" height="253.38" fill="#19202c"/>
+        <g id="window-siteception-title-bar">
+          <rect id="window-siteception-title-bar-base" x="640.05" y="253.42" width="163.88" height="12.55" fill="#ddd"/>
+          <g id="window-siteception-title-bar-buttons">
+            <ellipse id="window-siteception-close" cx="649.45" cy="259.4" rx="2.82" ry="2.58" fill="#afafb0"/>
+            <ellipse id="window-siteception-min" cx="660.28" cy="259.4" rx="2.82" ry="2.58" fill="#eaeaea"/>
+            <ellipse id="window-siteception-max" cx="670.53" cy="259.4" rx="2.82" ry="2.58" fill="#afafb0"/>
+          </g>
+        </g>
+      </g>
+      <rect id="me-arm" x="431.75" y="393.54" width="79.69" height="251.77" rx="39.85" transform="translate(514.39 1219.7) rotate(-141.26)" fill="#f27172"/>
+      <rect id="me-forearm" x="346.51" y="462.09" width="79.69" height="251.77" rx="39.85" transform="translate(-201.62 974.33) rotate(-90)" fill="#f27172"/>
+      <g id="me-head">
+        <path id="me-beard" d="M752.78,206.41,747,286.54a147.84,147.84,0,0,1-20.64,55.29c-11.2,17.72-24.64,30.52-46.34,30.52H601.53c-22.74,0-36.56-11.77-48.07-31a143.17,143.17,0,0,1-18.25-50.71l-7-82.74" fill="#e08138"/>
+        <path id="me-neck" d="M769,263.1c0,17.07-12,31.88-29.69,39.34A60.34,60.34,0,0,1,681,356v91.94H598V356a60.33,60.33,0,0,1-57.69-54.75c-18-7.36-30.38-22.34-30.38-39.62,0-18.28,13.78-34,33.49-40.81a60.35,60.35,0,0,1,57-40.43h79A60.36,60.36,0,0,1,737,222.81C756,229.94,769,245.31,769,263.1Z" fill="#fdc98d"/>
+        <path id="me-hair" d="M759.93,165.13a.23.23,0,0,0,0,.07l-13,77.86a143.73,143.73,0,0,1-20.79,54.42c-11.29,17.45-24.83,30-46.69,30h-79c-22.91,0-36.83-11.59-48.42-30.48a138.7,138.7,0,0,1-18.39-49.91L519.8,165.2A49.6,49.6,0,0,1,561.26,108c11-14.87,32.59-36.51,67.83-40.87a114.17,114.17,0,0,1,44,3.08h0c7.27-.06,15.68,1.23,25.34,4.23C772.88,97.51,760.38,162.9,759.93,165.13Z" fill="#e08138"/>
+      </g>
+      <path id="me-torso" d="M786,427.35l18,22.44v199H461.71L470,487.34A103.74,103.74,0,0,1,573.66,389h131.6a103.62,103.62,0,0,1,78.16,35.47l0,0A37.31,37.31,0,0,1,786,427.35Z" fill="#f27172"/>
+      <path id="glasses-right" d="M533.84,259.53l-4.75-30.39a2,2,0,0,0-2.25-1.65l-1.16.18h0l-1.17.19a2.41,2.41,0,0,0-2,2.75l.23,1.41a2.39,2.39,0,0,0,1.94,2l4.11,26.31A2,2,0,0,0,531,262l1.16-.19A2,2,0,0,0,533.84,259.53Z" fill="#24170d"/>
+      <path id="chair" d="M804,519.76V648.83H436.7v-35c0-74.6,60.56-135.09,135.26-135.09H707A134.93,134.93,0,0,1,804,519.76Z" fill="#2a4465"/>
+      <g id="speaker">
+        <rect id="speaker-body" x="219.02" y="10.64" width="91.58" height="146.28" rx="7.41" fill="#565651"/>
+        <circle id="speaker-woofer-base" cx="264.81" cy="106.52" r="34.09" fill="#aeadaa"/>
+        <circle id="speaker-tweeter-base" cx="264.81" cy="41.46" r="22.43" fill="#b0b1ac"/>
+        <circle id="speaker-tweeter-cap" cx="264.81" cy="41.46" r="6.29" fill="#4b4947"/>
+        <circle id="speaker-woofer-cone" cx="264.81" cy="106.22" r="22.43" fill="#1e1f19"/>
+        <circle id="speaker-woofer-cap" cx="264.81" cy="106.22" r="9.12" fill="#8e8d89"/>
+      </g>
+      <g id="rubiks">
+        <rect id="rubiks-backing" x="394.86" y="109.5" width="47.65" height="47.65" rx="2.14" fill="#1e1e1e"/>
+        <g id="rubiks-sides">
+          <rect id="rubiks-0" x="395.99" y="110.63" width="13.89" height="13.89" rx="1.27" fill="#f2e8e8"/>
+          <rect id="rubiks-1" x="411.73" y="110.63" width="13.89" height="13.89" rx="1.27" fill="#d45b64"/>
+          <rect id="rubiks-2" x="427.48" y="110.63" width="13.89" height="13.89" rx="1.27" fill="#f2e8e8"/>
+          <rect id="rubiks-3" x="395.99" y="126.38" width="13.89" height="13.89" rx="1.27" fill="#d45b64"/>
+          <rect id="rubiks-4" x="411.73" y="126.38" width="13.89" height="13.89" rx="1.27" fill="#3078a0"/>
+          <rect id="rubiks-5" x="427.48" y="126.38" width="13.89" height="13.89" rx="1.27" fill="#dcb626"/>
+          <rect id="rubiks-6" x="395.99" y="142.12" width="13.89" height="13.89" rx="1.27" fill="#2d8961"/>
+          <rect id="rubiks-7" x="411.73" y="142.12" width="13.89" height="13.89" rx="1.27" fill="#f2e8e8"/>
+          <rect id="rubiks-8" x="427.48" y="142.12" width="13.89" height="13.89" rx="1.27" fill="#ed6a26"/>
+        </g>
+      </g>
+      <g id="book-im">
+        <path id="book-im-spine" d="M332.48,0h8.76a7.27,7.27,0,0,1,7.27,7.27V153.2a3.73,3.73,0,0,1-3.73,3.73H328.94a3.73,3.73,0,0,1-3.73-3.73V7.27A7.27,7.27,0,0,1,332.48,0Z" fill="#675f76"/>
+        <rect id="book-im-divider" x="325.21" y="24.14" width="23.31" height="4.83" fill="#f2e8e8"/>
+        <g id="im-logo">
+          <circle cx="336.86" cy="11.91" r="1.71" fill="#d41f32"/>
+          <polygon points="340.37 13.96 340.37 19.88 338.3 19.88 338.3 17.7 337.47 19.88 336.26 19.88 335.42 17.7 335.42 19.88 333.36 19.88 333.36 13.96 340.37 13.96" fill="#d41f32"/>
+        </g>
+      </g>
+      <g id="book-blank-0">
+        <path id="book-blank-0-spine" d="M354.82,29.39h8.92a6.3,6.3,0,0,1,6.3,6.3v118a3.23,3.23,0,0,1-3.23,3.23H351.75a3.23,3.23,0,0,1-3.23-3.23v-118a6.3,6.3,0,0,1,6.3-6.3Z" fill="#f27172"/>
+        <rect id="book-blank-0-divider" x="348.52" y="49.24" width="21.52" height="4.45" fill="#dcb626"/>
+      </g>
+      <g id="book-blank-1">
+        <path id="book-blank-1-spine" d="M316,19h3.81a5.4,5.4,0,0,1,5.4,5.4V154.16a2.77,2.77,0,0,1-2.77,2.77h-9.07a2.77,2.77,0,0,1-2.77-2.77V24.42A5.4,5.4,0,0,1,316,19Z" fill="#7da3c9"/>
+        <rect id="book-blank-1-divider" x="310.61" y="40.48" width="14.6" height="4.82" fill="#f2e8e8"/>
+      </g>
+      <g id="book-lehigh">
+        <path id="lehigh-book-spine" d="M376.59,37.21H388.3a6.56,6.56,0,0,1,6.56,6.56v109.8a3.36,3.36,0,0,1-3.36,3.36H373.4a3.36,3.36,0,0,1-3.36-3.36V43.77A6.56,6.56,0,0,1,376.59,37.21Z" fill="#68461b"/>
+        <rect id="lehigh-book-divider" x="370.04" y="55.84" width="24.82" height="4.18" fill="#f2e8e8"/>
+        <g id="lehigh-logo">
+          <circle id="lehigh-logo-backing" cx="382.45" cy="47.41" r="5.59" fill="#fdf6eb"/>
+          <image id="lehigh-logo-img" width="1187" height="1160" transform="translate(378.54 43.59) scale(0.01)" xlink:href="jake1.png"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
